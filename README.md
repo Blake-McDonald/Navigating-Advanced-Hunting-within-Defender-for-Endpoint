@@ -1,4 +1,4 @@
-Navigating Advanced Hunting within Defender for Endpoint
+
 
 <h1> Navigating Advanced Hunting within Defender for Endpoint </h1>
 
